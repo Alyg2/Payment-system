@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node bot.js",
+    "check": "node --check bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "long-timeout": "^0.1.1"
+  }
+}
